@@ -2,7 +2,7 @@ name: workflow1
 
 on: 
   create:
-    branches:
+   branches:
       - develop
 
 jobs:
